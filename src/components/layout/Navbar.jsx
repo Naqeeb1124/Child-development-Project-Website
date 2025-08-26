@@ -26,7 +26,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
-              <img src="/logo.png" alt="EmpowerKids Logo" className="h-10 w-auto" />
+              <img src="/Child-development-Project-Website/assets/images/logo.png" alt="Empowerkids Logo" className="h-10 w-auto" />
             </Link>
           </div>
 
